@@ -6,8 +6,9 @@ using System.Linq;
 using System.Net;
 using System.Text;
 
-namespace http.request
+namespace rc.http.request
 {
+    
     public sealed class HttpRequest
     {
 

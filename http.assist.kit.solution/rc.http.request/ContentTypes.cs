@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Text;
 
-namespace http.request
+namespace rc.http.request
 {
     /// <summary>
     /// 网络请求内容类型(ContentType)枚举
